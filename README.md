@@ -14,7 +14,7 @@ This project is a maze-solving visualizer that demonstrates the Depth-First Sear
 
 ## Demo
 
-Check out a live demo of the project [here](#).
+Check out a live demo of the project [here](https://rohithachar.github.io/dfs_bfs_visualiser/).
 
 ## Features
 
@@ -29,7 +29,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/maze-solver-visualizer.git
+   git clone git@github.com:RohithAchar/dfs_bfs_visualiser.git
    ```
 2. Navigate to the project directory:
    ```bash
